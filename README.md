@@ -72,14 +72,14 @@ To access the spotify for developers dashboard, ensure you have a valid spotify 
 
 ##### Client Details
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108723117/181784499-e4e4e25e-5060-4084-962b-ea6dad0942a9.png" width="700" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108723117/181784499-e4e4e25e-5060-4084-962b-ea6dad0942a9.png" width="700" height="450"/>
 </p>
 
 ##### Adding Redirect URL
 Simply click on edit settings and then add the redirect url - http://localhost:9000
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108723117/181784857-a329e35a-7b83-473c-9d38-7f65d5610d73.png" width="700" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108723117/181784857-a329e35a-7b83-473c-9d38-7f65d5610d73.png" width="700" height="450"/>
 </p>
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
