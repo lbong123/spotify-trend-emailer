@@ -26,8 +26,7 @@
   <img src="https://user-images.githubusercontent.com/108723117/181786012-31b5a25b-5b1d-4397-a44a-b5ff2fc423d4.png" width="700" height="500"/>
 </p>
 
-The goal of this project was to create an interface for users to play and check the correctness when playing a game of sudoku.
-
+The goal of this project was to an analytics tool
 *Key Features*
 - randomised board states upon execution of the game
 - a solve button that completes a solution of the sudoku for you
@@ -38,8 +37,9 @@ The goal of this project was to create an interface for users to play and check 
 ### Built With
 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![Org Mode](https://img.shields.io/badge/pygame-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
-* ![Deepin](https://img.shields.io/badge/pyinstaller-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
